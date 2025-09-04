@@ -1,10 +1,7 @@
 {
-  "status": false,
-  "game_version": "18.9",
-  "game_url": "https://alynsampmobile.pro/game/alyn_sampmobile.apk",
   "arz_status": true,
   "arz_version": "16.3",
-  "discord": "https://alynsampmobile.pro/discord",
+  "discord": "https://discord.gg/6uAFZapJaW",
   "changelog": "https://alynsampmobile.pro/api/changelog",
   "servers": "https://alynsampmobile.pro/api/servers",
   "banned": "https://alynsampmobile.pro/api/banned",
