@@ -4,9 +4,8 @@
   "discord": "https://discord.gg/6uAFZapJaW",
   "changelog": "https://raw.githubusercontent.com/Aarmaaa28/hehehaha/refs/heads/main/changelog",
   "servers": "https://raw.githubusercontent.com/Aarmaaa28/hehehaha/refs/heads/main/servers",
-  "banned": "https://alynsampmobile.pro/api/banned",
+  "banned": "https://raw.githubusercontent.com/Aarmaaa28/hehehaha/refs/heads/main/banned",
   "full_list": "https://alynsampmobile.pro/api/game-files-list?type=full",
   "lite_list": "https://alynsampmobile.pro/api/game-files-list?type=lite",
   "samp_list": "https://alynsampmobile.pro/api/game-files-list?type=samp",
-  "new_list": "https://alynsampmobile.pro/api/game-files-list?type=new"
 }
