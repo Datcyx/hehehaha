@@ -1845,21 +1845,21 @@
             "name": "gta3.dxt.dat",
             "size": "201125976",
             "path": "texdb\/gta3\/gta3.dxt.dat",
-            "url": "http:\/\/apisampwhite.x10.mx\/\/game\/\/gta3.dxt.dat",
+            "url": "http:\/\/apisampwhite.x10.mx\/\/game\/\/gta3.etc.dat",
             "gpu": "dxt"
         },
         {
             "name": "gta3.dxt.tmb",
             "size": "577804",
             "path": "texdb\/gta3\/gta3.dxt.tmb",
-            "url": "http:\/\/apisampwhite.x10.mx\/\/game\/\/gta3.dxt.tmb",
+            "url": "http:\/\/apisampwhite.x10.mx\/\/game\/\/gta3.etc.tmb",
             "gpu": "dxt"
         },
         {
             "name": "gta3.dxt.toc",
             "size": "50012",
             "path": "texdb\/gta3\/gta3.dxt.toc",
-            "url": "http:\/\/apisampwhite.x10.mx\/\/game\/\/gta3.dxt.toc",
+            "url": "http:\/\/apisampwhite.x10.mx\/\/game\/\/gta3.etc.toc",
             "gpu": "dxt"
         },
         {
@@ -1887,21 +1887,21 @@
             "name": "gta3.pvr.dat",
             "size": "201125976",
             "path": "texdb\/gta3\/gta3.pvr.dat",
-            "url": "http:\/\/apisampwhite.x10.mx\/\/game\/\/gta3.pvr.dat",
+            "url": "http:\/\/apisampwhite.x10.mx\/\/game\/\/gta3.etc.dat",
             "gpu": "pvr"
         },
         {
             "name": "gta3.pvr.tmb",
             "size": "577804",
             "path": "texdb\/gta3\/gta3.pvr.tmb",
-            "url": "http:\/\/apisampwhite.x10.mx\/\/game\/\/gta3.pvr.tmb",
+            "url": "http:\/\/apisampwhite.x10.mx\/\/game\/\/gta3.etc.tmb",
             "gpu": "pvr"
         },
         {
             "name": "gta3.pvr.toc",
             "size": "50012",
             "path": "texdb\/gta3\/gta3.pvr.toc",
-            "url": "http:\/\/apisampwhite.x10.mx\/\/game\/\/gta3.pvr.toc",
+            "url": "http:\/\/apisampwhite.x10.mx\/\/game\/\/gta3.etc.toc",
             "gpu": "pvr"
         },
         {
