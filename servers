@@ -1,8 +1,8 @@
 {
   "servers": [
     {
-      "host": "play.uifserver.net",
-      "port": "7776",
+      "host": "104.234.180.52",
+      "port": "26008",
       "banned": false
     }
   ]
